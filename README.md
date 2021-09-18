@@ -1,6 +1,7 @@
 # Supermarket-Sales
 
 The dataset used was obtained from [kaggle](https://www.kaggle.com/mahmoudeletrby/supermarket).
+
 I keep working on this dataset in SQL.
 -----------------------
 ### Context
